@@ -1,5 +1,5 @@
 # Rule Based AI
 
 By:
-+ Nama: Sasuke Uchiha
-+ NIM: 2221100010
++ Nama: Alma Riesty Wijayanti
++ NIM: 201440005
